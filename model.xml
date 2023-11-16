@@ -1,12 +1,12 @@
 <root org="doublechain"
-    chinese_name="Simple PIM v1.01"
-    english_name="Product Information Management"
+    chinese_name="祥哥测试系统"
+    english_name="XiangBro Test System"
 >
     <platform
               
-        name="PIM"
+        name="XiangBro"
         founded="now()"
-        contact_number="992887654321"
+        contact_number="123456"
     />
     <brand name="Candys|Sees"  platform="platform()"/>
     <product name="popcorn|chocklate" image="snack.jpg" brand="brand()"  platform="platform()"/>
